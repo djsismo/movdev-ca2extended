@@ -2,7 +2,7 @@
 /** Ionic CSS Variables **/
 :root {
       --ion-background-color: var(--ion-color-dark);
-  --ion-text-color: #fff;
+  --ion-text-color: rgb(208, 209, 199);
   --ion-tab-bar-background: var(--ion-color-primary);
 
   ion-tab-button {
@@ -11,7 +11,7 @@
   --ion-text-color-rgb: 255, 255, 255;
 
   ion-card {
-    --color: #fff;
+    --color: rgb(210, 211, 202);
   }
 
   ion-item {
@@ -20,12 +20,12 @@
   }
 
  /** primary **/
-  --ion-color-primary: #272b30;
+  --ion-color-primary: #000000;
   --ion-color-primary-rgb: 39,43,48;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255,255,255;
-  --ion-color-primary-shade: #22262a;
-  --ion-color-primary-tint: #3d4045;
+  --ion-color-primary-shade: #838c96;
+  --ion-color-primary-tint: #2c6fe2;
 
   /** secondary **/
   --ion-color-secondary: #FFE300;
@@ -60,9 +60,9 @@
   --ion-color-warning-tint: #ffe61a;
 
   /** danger **/
-  --ion-color-danger: #f53d3d;
+  --ion-color-danger: #eff306;
   --ion-color-danger-rgb: 245,61,61;
-  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast: #dfdbdb;
   --ion-color-danger-contrast-rgb: 255,255,255;
   --ion-color-danger-shade: #d83636;
   --ion-color-danger-tint: #f65050;
@@ -76,11 +76,11 @@
   --ion-color-dark-tint: #333538;
 
   /** medium **/
-  --ion-color-medium: #989aa2;
+  --ion-color-medium: #000103;
   --ion-color-medium-rgb: 152,154,162;
-  --ion-color-medium-contrast: #ffffff;
+  --ion-color-medium-contrast: #ddc80d;
   --ion-color-medium-contrast-rgb: 255,255,255;
-  --ion-color-medium-shade: #86888f;
+  --ion-color-medium-shade: #5164a8;
   --ion-color-medium-tint: #a2a4ab;
 
   /** light **/
